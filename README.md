@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is apnacollege-demo repository
+This is apnacollege-demo repository.
+Author - Sushma
