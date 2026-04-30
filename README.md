@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is apnacollege-demo repository.
 <br>
-Author - Sushma
+Author - Sushma Y
